@@ -266,7 +266,7 @@ git clone https://github.com/storytold/craft-fonts ../craft-fonts
 CRAFT_FONTS_DIR="$PWD/../craft-fonts" cargo run --release -p photocraft
 ```
 
-New contributors and AI agents: start with [`AGENTS.md`](AGENTS.md), then [`docs/`](docs/).
+New contributors and AI agents: start with [`AGENTS.md`](AGENTS.md), then the [documentation index](docs/README.md).
 
 Installers for macOS, Windows, Linux, FreeBSD and the web are attached to each [GitHub release](https://github.com/storytold/photocraft/releases). On Linux you can pick an AppImage, a `.deb`, an `.rpm`, a tarball or a Flatpak bundle. The bundle needs the freedesktop runtime from [Flathub](https://flathub.org/setup), which `flatpak` offers to install along with it:
 
@@ -302,7 +302,7 @@ Maintainers: [`docs/releasing.md`](docs/releasing.md) explains how releases are 
 
 ## Documentation
 
-Developer, architecture, automation, format, and security documentation is maintained in the [PhotoCraft documentation book](book/).
+Start with the [documentation index](docs/README.md) for task-based links and the distinction between current reference material, generated measurements and historical plans. Developer, architecture, automation, format, and security documentation is also organized in the [PhotoCraft documentation book](book/src/SUMMARY.md).
 
 To self-host the browser version with Docker, see [Docker web hosting](packaging/web/README.md#docker).
 
