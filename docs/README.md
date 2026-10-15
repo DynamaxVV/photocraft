@@ -7,6 +7,7 @@
 | 任务 | 入口 |
 |---|---|
 | 了解项目、安装与下载 | [项目说明](../README.md) |
+| 查看本 fork 修改 | [更新日志](../CHANGELOG.md)、[更改说明](../FORK_CHANGES.md) |
 | 按章节阅读手册 | [文档手册目录](../book/src/SUMMARY.md) |
 | 编译、运行与测试 | [开发指南](development.md) |
 | 修改代码与新增命令 | [贡献指南](contributing.md)、[代理与贡献者规则](../AGENTS.md) |
